@@ -1,6 +1,6 @@
 # Estatistica_Java
 
-Java. Digite quaisquer números reais positivos ou negativos quantos quiser ao final aperte ctrl+d, ou ctrl^z
+Java. Digite quaisquer números reais positivos ou negativos quantos quiser ao final aperte ctrl+d ou ctrl^z
 o aplicativo calcula k = a raiz quadrada da quantidade de numeros digitados n,
 A amplitude total, valor maior - valor menor.
 A amplitude do intervalo de classe h = AT/k.
